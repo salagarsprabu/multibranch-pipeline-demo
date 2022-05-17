@@ -3,4 +3,4 @@
 Jenkins Multibranch Pipeline Example Repository
 added
 Add a new line in MB Pipeline
-Add a new line in MB1 demo Pipeline
+Add a new line in MB demo Pipeline
